@@ -5,7 +5,7 @@
 Ce projet est une application web **Java EE (JEE)** qui permet de traduire du texte vers le dialecte marocain (**Darija**). Il exploite la puissance du modèle d'intelligence artificielle **Gemini 3 Flash** de Google pour offrir des traductions naturelles et contextuelles.
 
 
-[![Démo du Traducteur](application/Translator_Service/src/main/webapp/images/imgCov.png)](https://www.youtube.com/watch?v=ID_DE_TA_VIDEO)
+[![Démo du Traducteur](application/Translator_Service/src/main/webapp/images/imgCov.png)](https://youtu.be/ddkKPH4xN3U)
 *🎥 Cliquez sur l'image ci-dessus pour voir la démonstration vidéo sur YouTube.*
 
 ---
