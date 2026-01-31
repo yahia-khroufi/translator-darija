@@ -1,6 +1,6 @@
 # 🌍 Moroccan Darija Translator (Powered by Gemini 3 Flash)
 
-[![Démo du Traducteur](https://img.youtube.com/vi/ID_DE_TA_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DE_TA_VIDEO)
+[![Démo du Traducteur](application/Translator_Service/src/main/webapp/images/imgCov.png)](https://www.youtube.com/watch?v=ID_DE_TA_VIDEO)
 *🎥 Cliquez sur l'image ci-dessus pour voir la démonstration vidéo sur YouTube.*
 
 ---
