@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Darija AI Sidebar",
+  "version": "1.2",
+  "description": "Traducteur Darija avec panneau latéral et sélection de texte.",
+  "permissions": ["sidePanel", "activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "popup.html"
+  },
+  "action": {
+    "default_title": "Ouvrir le Traducteur Darija",
+    "default_icon": {
+      "128": "icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "all_frames": true
+    }
+  ],
+  "host_permissions": ["http://localhost:8080/*"],
+  "icons": {
+    "128": "icon128.png"
+  }
+}
