@@ -1,0 +1,9 @@
+# CONFIGURATION DE L'API GEMINI
+# ------------------------------
+
+1. Obtenez une clé API sur : https://aistudio.google.com/
+2. Remplacez la valeur ci-dessous par votre clé personnelle.
+3. IMPORTANT : Ne jamais partager ou pousser votre clé réelle sur GitHub.
+
+GEMINI_API_KEY=votre_cle_ici_abc123
+ENDPOINT=https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash
